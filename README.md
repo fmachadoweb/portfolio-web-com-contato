@@ -18,7 +18,7 @@
     <br />
     <a href="https://hardtek.com.br/portfolio2/">View Demo</a>
     ·
-    <a href="mailto:fernandomachadoweb">Reportar Erro</a>
+    <a href="mailto:fernandomachadoweb@gmail.com">Reportar Erro</a>
 
   </p>
 </div>
