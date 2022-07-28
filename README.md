@@ -25,21 +25,6 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ul>
-    <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#game-screenshot">Game Screenshot</a></li>
-  </ul>
-</details>
-
-
-
-
-
-
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -47,7 +32,7 @@
 
 
 <!-- CONTACT -->
-## Contact
+## Contato
 
 Fernando Machado - [@fmachadoweb](https://twitter.com/fmachadoweb) - fernandomachadoweb@gmail.com
 
