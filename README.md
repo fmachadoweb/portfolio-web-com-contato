@@ -24,7 +24,7 @@
 ## Captura de tela
 <div align="center">
   <a href="#">
- <img src="https://hardtek.com.br/portfolio2/print.jpeg" alt="Logo" width="868" height="410"></a>
+ <img src="https://hardtek.com.br/portfolio2/print.jpeg" alt="Logo" ></a>
 </div>
 
 
