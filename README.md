@@ -17,9 +17,6 @@
     <br />
     <br />
     <a href="https://hardtek.com.br/portfolio2/">Ver demo</a>
-    ·
-    <a href="mailto:fernandomachadoweb@gmail.com">Reportar Erro</a>
-
   </p>
 </div>
 
