@@ -16,7 +16,7 @@
     <a href="https://github.com/fmachadoweb/portfolio-web-com-contato"><strong>Explorar arquivos »</strong></a>
     <br />
     <br />
-    [go](https://hardtek.com.br/portfolio2/){:target="_blank" rel="noopener"}
+    <a href="https://hardtek.com.br/portfolio2/">Ver demo</a>
     ·
     <a href="mailto:fernandomachadoweb@gmail.com">Reportar Erro</a>
 
